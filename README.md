@@ -1,8 +1,8 @@
 # Trustworthy Seminar Series
 
-Our seminar sessions are held on Wednesdays from 12:00-13:00 (GMT). To join, follow the relevant link provided in the table below. 
+Our seminar sessions are held on Wednesdays from 12:00-13:00 (GMT). 
 
-Sign up to our seminar mailing list to get invited along to talks here: https://mailchi.mp/3efe6381e89d/tsl-seminar-series
+To join, please sign up to our seminar mailing list and you will get sent a Teams invite to the talk: https://mailchi.mp/3efe6381e89d/tsl-seminar-series
 
 ## Our upcoming talks 
 
